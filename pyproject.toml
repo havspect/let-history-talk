@@ -1,0 +1,7 @@
+[project]
+name = "let-history-talk"
+version = "0.1.0"
+description = "A series of ipynb files to create podcasts from historical topics."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
